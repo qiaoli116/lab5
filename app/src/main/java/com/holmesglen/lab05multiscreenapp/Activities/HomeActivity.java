@@ -31,6 +31,8 @@ public class HomeActivity extends AppCompatActivity {
         // start code
 
         // more
+
+
         // more coding for V2.0
     }
 }
