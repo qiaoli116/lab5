@@ -30,7 +30,7 @@ public class HomeActivity extends AppCompatActivity {
         });
         // start code
 
-asfas
+
         // more coding for V2.0
     }
 }
